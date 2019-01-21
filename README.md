@@ -1,6 +1,6 @@
 # ruby-calc
 ### Description
-created simple calculate (add, subtract, multiply, divide) and advanced (square root and powers)
+created simple calculate (add, subtract, multiply, divide) and advanced (square root and powers) and bmi
  
 ### Languages used
 * ruby
@@ -9,4 +9,4 @@ created simple calculate (add, subtract, multiply, divide) and advanced (square 
 1. Using ruby notation
  
 ### Learning point
-1. 
+ 
